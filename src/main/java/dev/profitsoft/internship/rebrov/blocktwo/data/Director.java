@@ -1,42 +1,31 @@
 package dev.profitsoft.internship.rebrov.blocktwo.data;
 
-import lombok.Getter;
-import lombok.Setter;
+import jakarta.persistence.*;
+import lombok.*;
 
+import java.time.LocalDate;
 import java.util.Objects;
+
+@Entity
+@Table(name = "director")
 @Getter
 @Setter
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
 public class Director {
-    private Integer id;
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(name = "full_name", nullable = false)
     private String fullName;
-    private String country;
-    private Integer birthYear;
 
-    public Director(String fullName, String country, int birthYear) {
-        this.fullName = fullName;
-        this.country = country;
-        this.birthYear = birthYear;
-    }
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "country_id", nullable = false)
+    private Country country;
+    @Column(nullable = false)
 
-    public Director(){}
-
-    @Override
-    public boolean equals(Object o) {
-        if (!(o instanceof Director director)) return false;
-        return Objects.equals(birthYear, director.birthYear) && Objects.equals(fullName, director.fullName) && Objects.equals(country, director.country);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(fullName, country, birthYear);
-    }
-
-    @Override
-    public String toString() {
-        return "{" +
-                "fullName='" + fullName + '\'' +
-                ", country='" + country + '\'' +
-                ", birthYear=" + birthYear +
-                '}';
-    }
+    private LocalDate birthday;
 }

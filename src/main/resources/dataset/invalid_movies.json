@@ -1,0 +1,7001 @@
+[ {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "1994-10-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.1,
+  "directorId" : 999,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "",
+  "released" : "1983-10-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.5,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Antic Hay",
+  "released" : "1935-08-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 42,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "1925-07-11",
+  "genresId" : [ 22222, 44444 ],
+  "rating" : 1.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1984-04-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : -1,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Way of All Flesh",
+  "released" : "3000-01-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.4,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Widening Gyre",
+  "released" : "1950-10-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Specimen Days",
+  "released" : "1949-01-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "1919-06-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.5,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Dying of the Light",
+  "released" : "1924-06-27",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.2,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA", "Oscar" ]
+}, {
+  "title" : "That Hideous Strength",
+  "released" : "1902-09-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1916-12-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "1904-11-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.6,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "After Many a Summer Dies the Swan",
+  "released" : "1996-09-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.9,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Where Angels Fear to Tread",
+  "released" : "1917-05-16",
+  "genresId" : [ 1 ],
+  "rating" : 3.9,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1975-05-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.3,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1938-11-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.4,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Widening Gyre",
+  "released" : "1989-06-06",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Death Be Not Proud",
+  "released" : "1993-01-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.9,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Handful of Dust",
+  "released" : "2024-05-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.7,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Many Waters",
+  "released" : "1924-01-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.8,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "To Say Nothing of the Dog",
+  "released" : "1919-03-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.0,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1948-01-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.1,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Such, Such Were the Joys",
+  "released" : "1982-10-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.0,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Dulce et Decorum Est",
+  "released" : "1959-06-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.0,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "1906-01-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.3,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "2000-08-27",
+  "genresId" : [ 1 ],
+  "rating" : 3.1,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1933-03-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "An Instant In The Wind",
+  "released" : "1973-08-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.8,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "1936-12-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "2002-01-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.1,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1982-12-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.8,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "1924-01-10",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Glory and the Dream",
+  "released" : "2003-07-31",
+  "genresId" : [ 1 ],
+  "rating" : 5.3,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1911-11-22",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.0,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "1941-08-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.0,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "2019-09-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.5,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "For Whom the Bell Tolls",
+  "released" : "1954-09-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.6,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "East of Eden",
+  "released" : "1987-01-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1959-07-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Little Hands Clapping",
+  "released" : "1983-12-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Dying of the Light",
+  "released" : "1949-11-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1965-02-23",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.6,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "2007-03-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.0,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Moving Finger",
+  "released" : "1956-07-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.5,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Way of All Flesh",
+  "released" : "1974-12-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "1916-06-22",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.1,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Wealth of Nations",
+  "released" : "1991-03-12",
+  "genresId" : [ 1 ],
+  "rating" : 4.2,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "1912-01-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.8,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Moab Is My Washpot",
+  "released" : "1922-06-16",
+  "genresId" : [ 1 ],
+  "rating" : 4.5,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1973-02-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.4,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1911-07-27",
+  "genresId" : [ 1 ],
+  "rating" : 4.2,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Things Fall Apart",
+  "released" : "1937-05-11",
+  "genresId" : [ 1 ],
+  "rating" : 8.7,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "East of Eden",
+  "released" : "1999-05-05",
+  "genresId" : [ 1 ],
+  "rating" : 7.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Absalom, Absalom!",
+  "released" : "1983-09-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.4,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "1933-10-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "1974-01-13",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.7,
+  "directorId" : 7,
+  "awards" : [ "BAFTA", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1954-09-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.3,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1935-07-19",
+  "genresId" : [ 1 ],
+  "rating" : 1.8,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1935-08-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.6,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Have His Carcase",
+  "released" : "1963-01-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.5,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Moving Toyshop",
+  "released" : "1917-10-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.2,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1973-10-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 10.0,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1963-04-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.4,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "His Dark Materials",
+  "released" : "1996-01-31",
+  "genresId" : [ 1 ],
+  "rating" : 9.6,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "1929-08-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.2,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Vile Bodies",
+  "released" : "1902-08-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.9,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Time To Murder And Create",
+  "released" : "1978-06-06",
+  "genresId" : [ 1 ],
+  "rating" : 8.3,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1991-07-25",
+  "genresId" : [ 1 ],
+  "rating" : 8.7,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Stranger in a Strange Land",
+  "released" : "1980-04-03",
+  "genresId" : [ 1 ],
+  "rating" : 9.9,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "2012-12-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "2024-11-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 10.0,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1986-07-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "1927-03-27",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.5,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Rosemary Sutcliff",
+  "released" : "1901-06-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.0,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "From Here to Eternity",
+  "released" : "2022-07-29",
+  "genresId" : [ 1 ],
+  "rating" : 3.2,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1902-04-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Antic Hay",
+  "released" : "1956-12-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.6,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1975-05-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1953-02-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.7,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "2017-06-03",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.0,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Soldier's Art",
+  "released" : "1902-08-05",
+  "genresId" : [ 1 ],
+  "rating" : 6.0,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Moon by Night",
+  "released" : "1973-11-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.1,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Vile Bodies",
+  "released" : "1914-02-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.2,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "A Swiftly Tilting Planet",
+  "released" : "1903-05-03",
+  "genresId" : [ 1 ],
+  "rating" : 9.4,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Monstrous Regiment of Women",
+  "released" : "2012-10-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.9,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "That Hideous Strength",
+  "released" : "1997-07-04",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.0,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1993-12-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.6,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Ego Dominus Tuus",
+  "released" : "1972-09-26",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.6,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "When the Green Woods Laugh",
+  "released" : "1944-07-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.2,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "2017-09-27",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.7,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "2002-03-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Françoise Sagan",
+  "released" : "1943-08-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.0,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1957-12-20",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.7,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Millstone",
+  "released" : "1912-08-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.1,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Gone with the Wind",
+  "released" : "1996-08-03",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "If I Forget Thee Jerusalem",
+  "released" : "2013-11-06",
+  "genresId" : [ 1 ],
+  "rating" : 9.1,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "1923-07-31",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.6,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "It's a Battlefield",
+  "released" : "1924-06-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1973-03-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.8,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Golden Bowl",
+  "released" : "1913-03-05",
+  "genresId" : [ 1 ],
+  "rating" : 7.8,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Sleep the Brave",
+  "released" : "2009-11-19",
+  "genresId" : [ 1 ],
+  "rating" : 8.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "2017-06-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.2,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Fear and Trembling",
+  "released" : "1920-08-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.3,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Soldier's Art",
+  "released" : "2001-08-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.9,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Widening Gyre",
+  "released" : "1937-07-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1909-09-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1903-09-05",
+  "genresId" : [ 1 ],
+  "rating" : 9.8,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "1966-01-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.0,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1911-01-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.9,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "This Lime Tree Bower",
+  "released" : "1904-03-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.5,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Great Work of Time",
+  "released" : "1962-11-22",
+  "genresId" : [ 1 ],
+  "rating" : 4.5,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "An Instant In The Wind",
+  "released" : "1958-02-10",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.0,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1919-09-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.5,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "No Longer at Ease",
+  "released" : "1966-09-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.5,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "It's a Battlefield",
+  "released" : "1970-11-25",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.5,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Nine Coaches Waiting",
+  "released" : "1952-09-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.7,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "This Lime Tree Bower",
+  "released" : "1977-11-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "1959-03-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Have His Carcase",
+  "released" : "1972-02-06",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.5,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "2004-10-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "1928-10-23",
+  "genresId" : [ 1 ],
+  "rating" : 4.9,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "No Country for Old Men",
+  "released" : "2008-11-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Quo Vadis",
+  "released" : "2015-10-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.5,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "1930-12-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.1,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Where Angels Fear to Tread",
+  "released" : "1957-10-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "1911-04-30",
+  "genresId" : [ 1 ],
+  "rating" : 8.8,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1917-11-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.5,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Lathe of Heaven",
+  "released" : "1966-03-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "2008-06-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Heart Is a Lonely Hunter",
+  "released" : "2006-08-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Fair Stood the Wind for France",
+  "released" : "1993-06-30",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Gone with the Wind",
+  "released" : "1970-08-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "1935-12-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Moving Finger",
+  "released" : "1938-03-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.8,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Rosemary Sutcliff",
+  "released" : "1957-01-19",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.6,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "That Good Night",
+  "released" : "1995-10-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "East of Eden",
+  "released" : "1986-09-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1977-09-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "That Hideous Strength",
+  "released" : "2019-06-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Things Fall Apart",
+  "released" : "1994-01-10",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Quo Vadis",
+  "released" : "2014-03-01",
+  "genresId" : [ 1 ],
+  "rating" : 5.2,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "A Confederacy of Dunces",
+  "released" : "1948-05-15",
+  "genresId" : [ 1 ],
+  "rating" : 8.4,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1959-02-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1944-02-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.8,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "1946-04-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.0,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1992-03-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.4,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1976-09-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.4,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "1971-05-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.9,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Skull Beneath the Skin",
+  "released" : "1912-02-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1906-04-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 7,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Blood's a Rover",
+  "released" : "1959-08-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.6,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "2021-09-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.4,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Golden Apples of the Sun",
+  "released" : "1936-05-09",
+  "genresId" : [ 1 ],
+  "rating" : 1.2,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "2017-03-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.5,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Some Buried Caesar",
+  "released" : "1981-07-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.9,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "An Instant In The Wind",
+  "released" : "2012-12-04",
+  "genresId" : [ 1 ],
+  "rating" : 8.6,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Taming a Sea Horse",
+  "released" : "1920-08-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1947-05-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 10.0,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Handful of Dust",
+  "released" : "1950-06-19",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.6,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "An Acceptable Time",
+  "released" : "1949-06-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Vile Bodies",
+  "released" : "1998-04-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.8,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "After Many a Summer Dies the Swan",
+  "released" : "2001-08-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.2,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1985-10-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Soldier's Art",
+  "released" : "2019-12-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.6,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1944-07-31",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.9,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Pale Kings and Princes",
+  "released" : "1947-08-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.8,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Such, Such Were the Joys",
+  "released" : "1958-11-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Golden Apples of the Sun",
+  "released" : "1918-08-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Unweaving the Rainbow",
+  "released" : "1938-09-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.0,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "1955-08-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 10.0,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Now Sleeps the Crimson Petal",
+  "released" : "1992-06-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.0,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "This Side of Paradise",
+  "released" : "2006-07-28",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "2005-06-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.8,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Down to a Sunless Sea",
+  "released" : "1985-04-24",
+  "genresId" : [ 1 ],
+  "rating" : 5.8,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Taming a Sea Horse",
+  "released" : "2010-04-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.6,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Heart Is Deceitful Above All Things",
+  "released" : "1903-07-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.5,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1900-12-16",
+  "genresId" : [ 1 ],
+  "rating" : 6.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1986-02-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.0,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "1905-05-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "To a God Unknown",
+  "released" : "1997-07-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "2022-10-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.6,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1940-03-22",
+  "genresId" : [ 1 ],
+  "rating" : 2.2,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1976-08-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Millstone",
+  "released" : "1995-09-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.3,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Noli Me Tangere",
+  "released" : "1996-03-31",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1957-11-26",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Moon by Night",
+  "released" : "1908-01-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.4,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "1910-11-22",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.5,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Arms and the Man",
+  "released" : "1988-10-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.6,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Little Hands Clapping",
+  "released" : "1907-11-23",
+  "genresId" : [ 1 ],
+  "rating" : 8.5,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "If Not Now, When?",
+  "released" : "1926-04-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.8,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "2014-03-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.8,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Little Hands Clapping",
+  "released" : "1966-08-03",
+  "genresId" : [ 1 ],
+  "rating" : 5.1,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "1905-08-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Swiftly Tilting Planet",
+  "released" : "2006-01-03",
+  "genresId" : [ 1 ],
+  "rating" : 9.5,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Other Side of Silence",
+  "released" : "1986-10-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.8,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "What's Become of Waring",
+  "released" : "1931-06-28",
+  "genresId" : [ 1 ],
+  "rating" : 6.8,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "1986-11-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.5,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1928-01-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.2,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Scanner Darkly",
+  "released" : "1965-12-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.0,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "1978-12-23",
+  "genresId" : [ 1 ],
+  "rating" : 2.7,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Now Sleeps the Crimson Petal",
+  "released" : "1977-09-03",
+  "genresId" : [ 1 ],
+  "rating" : 5.8,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "1983-12-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Torment of Others",
+  "released" : "1982-08-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "1991-06-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.4,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "In Dubious Battle",
+  "released" : "1950-04-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Vanity Fair",
+  "released" : "1960-10-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.1,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "A Catskill Eagle",
+  "released" : "1938-12-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.3,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1991-07-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.2,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1931-06-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Golden Bowl",
+  "released" : "1986-02-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Arms and the Man",
+  "released" : "1966-05-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.7,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "1916-01-06",
+  "genresId" : [ 1 ],
+  "rating" : 2.0,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "A Passage to India",
+  "released" : "2007-05-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "1963-03-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "2017-12-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.1,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "1998-12-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.4,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "No Longer at Ease",
+  "released" : "1920-12-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.0,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Proper Study",
+  "released" : "1961-04-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.6,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1990-09-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Doors of Perception",
+  "released" : "1973-07-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.7,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Arms and the Man",
+  "released" : "1997-07-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "This Lime Tree Bower",
+  "released" : "1971-02-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.6,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Dance Dance Dance",
+  "released" : "1939-04-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.7,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Time To Murder And Create",
+  "released" : "1921-09-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "In Dubious Battle",
+  "released" : "1940-02-03",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1930-05-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.6,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "A Swiftly Tilting Planet",
+  "released" : "1924-01-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.4,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "A Passage to India",
+  "released" : "1995-12-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.2,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1916-05-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Bury My Heart at Wounded Knee",
+  "released" : "1968-02-03",
+  "genresId" : [ 1 ],
+  "rating" : 4.6,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Vile Bodies",
+  "released" : "1961-01-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.3,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "To Say Nothing of the Dog",
+  "released" : "1966-07-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.3,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "2009-01-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.2,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Torment of Others",
+  "released" : "1930-02-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1922-03-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Sun Also Rises",
+  "released" : "1939-04-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.0,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "That Good Night",
+  "released" : "1962-08-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Golden Apples of the Sun",
+  "released" : "1964-12-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "2016-05-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.8,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Proper Study",
+  "released" : "1914-11-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1974-10-04",
+  "genresId" : [ 1 ],
+  "rating" : 6.5,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Cabbages and Kings",
+  "released" : "1927-10-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "1940-02-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.5,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Noli Me Tangere",
+  "released" : "1990-01-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "In a Glass Darkly",
+  "released" : "2018-03-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.1,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Far From the Madding Crowd",
+  "released" : "2003-03-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.6,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1957-05-30",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.0,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "If Not Now, When?",
+  "released" : "2021-09-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.9,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "No Highway",
+  "released" : "1964-10-28",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.6,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1997-07-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Stranger in a Strange Land",
+  "released" : "1947-02-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.7,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1913-07-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.3,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1934-01-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.3,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1976-04-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.9,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Road Less Traveled",
+  "released" : "1939-06-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.9,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "That Hideous Strength",
+  "released" : "2013-08-26",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.8,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "1904-08-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1904-06-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.8,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Time of our Darkness",
+  "released" : "1993-12-04",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.9,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1937-11-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.6,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1925-02-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.7,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "2007-04-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1904-03-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1946-05-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.3,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1977-05-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "As I Lay Dying",
+  "released" : "1982-05-25",
+  "genresId" : [ 1 ],
+  "rating" : 8.9,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "2020-04-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.5,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Many-Splendoured Thing",
+  "released" : "1994-10-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.6,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "In a Glass Darkly",
+  "released" : "1932-07-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.7,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "2020-09-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.8,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Fair Stood the Wind for France",
+  "released" : "2020-10-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.4,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Carrion Comfort",
+  "released" : "1929-06-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1967-07-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.1,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1931-03-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1917-02-13",
+  "genresId" : [ 1 ],
+  "rating" : 5.4,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "1989-02-20",
+  "genresId" : [ 1 ],
+  "rating" : 3.6,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "No Longer at Ease",
+  "released" : "2007-09-05",
+  "genresId" : [ 1 ],
+  "rating" : 8.4,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "2004-09-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1974-03-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.4,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "1985-10-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.1,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1955-03-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.0,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Road Less Traveled",
+  "released" : "2012-04-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.6,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Man Within",
+  "released" : "1949-12-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.5,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1997-12-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.1,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "A Time to Kill",
+  "released" : "1929-10-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.7,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The House of Mirth",
+  "released" : "1904-09-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA", "Oscar" ]
+}, {
+  "title" : "In a Glass Darkly",
+  "released" : "1915-11-04",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.5,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Alone on a Wide, Wide Sea",
+  "released" : "1930-08-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.8,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "I Sing the Body Electric",
+  "released" : "2024-11-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "From Here to Eternity",
+  "released" : "1904-05-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.4,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1972-06-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.3,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "1958-12-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.9,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "A Time of Gifts",
+  "released" : "1922-10-15",
+  "genresId" : [ 1 ],
+  "rating" : 1.9,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Rosemary Sutcliff",
+  "released" : "1918-06-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.7,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "This Lime Tree Bower",
+  "released" : "2023-09-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.9,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1930-05-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.4,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Proper Study",
+  "released" : "1905-05-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "1907-08-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.3,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Jacob Have I Loved",
+  "released" : "1985-08-11",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1998-11-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.3,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "1996-10-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.7,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Have His Carcase",
+  "released" : "2001-11-26",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.5,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "1934-05-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "A Passage to India",
+  "released" : "1920-08-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Things Fall Apart",
+  "released" : "1983-12-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "All Passion Spent",
+  "released" : "2016-01-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.3,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "A Many-Splendoured Thing",
+  "released" : "2010-01-05",
+  "genresId" : [ 1 ],
+  "rating" : 4.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "When the Green Woods Laugh",
+  "released" : "1962-01-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.0,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1984-02-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.5,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Vile Bodies",
+  "released" : "1976-10-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Things Fall Apart",
+  "released" : "1970-06-06",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.6,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1905-09-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Pale Kings and Princes",
+  "released" : "1942-01-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.0,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Bury My Heart at Wounded Knee",
+  "released" : "1953-05-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 10.0,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Millstone",
+  "released" : "1967-04-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.3,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Bury My Heart at Wounded Knee",
+  "released" : "2017-05-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Taming a Sea Horse",
+  "released" : "1935-09-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.1,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "1905-10-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 10.0,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "2015-10-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.6,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Death Be Not Proud",
+  "released" : "1982-09-26",
+  "genresId" : [ 1 ],
+  "rating" : 8.2,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1963-02-06",
+  "genresId" : [ 1 ],
+  "rating" : 4.1,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Far From the Madding Crowd",
+  "released" : "1904-10-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.6,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1921-05-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.9,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Pale Kings and Princes",
+  "released" : "1981-02-01",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Little Hands Clapping",
+  "released" : "1933-07-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.1,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1923-11-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.8,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "It's a Battlefield",
+  "released" : "1991-06-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1952-04-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.2,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "2012-01-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.5,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Mirror Crack'd from Side to Side",
+  "released" : "1935-02-28",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.5,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1978-04-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.2,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "1947-08-14",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.4,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "A Glass of Blessings",
+  "released" : "1928-05-30",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.3,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Cabbages and Kings",
+  "released" : "1945-03-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.4,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "For Whom the Bell Tolls",
+  "released" : "1986-03-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Proper Study",
+  "released" : "1962-05-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.0,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "2023-03-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "When the Green Woods Laugh",
+  "released" : "2007-05-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.4,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Vanity Fair",
+  "released" : "1955-03-24",
+  "genresId" : [ 1 ],
+  "rating" : 2.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "To a God Unknown",
+  "released" : "2019-11-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.1,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Surprised by Joy",
+  "released" : "1969-01-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1912-08-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Catskill Eagle",
+  "released" : "2020-03-04",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Doors of Perception",
+  "released" : "1973-06-26",
+  "genresId" : [ 1 ],
+  "rating" : 9.8,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "1960-04-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.9,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1944-01-19",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.7,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Great Work of Time",
+  "released" : "1917-11-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Gone with the Wind",
+  "released" : "1927-12-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.8,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Where Angels Fear to Tread",
+  "released" : "1921-01-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.9,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1982-06-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Swiftly Tilting Planet",
+  "released" : "1985-07-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.4,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "In a Glass Darkly",
+  "released" : "1981-11-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Blood's a Rover",
+  "released" : "1937-02-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.4,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "His Dark Materials",
+  "released" : "1910-03-21",
+  "genresId" : [ 1 ],
+  "rating" : 7.8,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "2018-03-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.7,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "1938-07-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "When the Green Woods Laugh",
+  "released" : "1998-10-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.9,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1910-09-19",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.5,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Arms and the Man",
+  "released" : "2017-02-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Wives of Bath",
+  "released" : "2024-07-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Where Angels Fear to Tread",
+  "released" : "1922-02-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1932-11-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.9,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1933-11-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.7,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "What's Become of Waring",
+  "released" : "1901-07-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "2008-08-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.1,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Look Homeward, Angel",
+  "released" : "1956-05-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.8,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "In Dubious Battle",
+  "released" : "1937-09-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.9,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Death Be Not Proud",
+  "released" : "1987-06-11",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.1,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Stranger in a Strange Land",
+  "released" : "1911-04-19",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Where Angels Fear to Tread",
+  "released" : "1944-09-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Vanity Fair",
+  "released" : "1986-04-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.9,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Torment of Others",
+  "released" : "2012-09-15",
+  "genresId" : [ 1 ],
+  "rating" : 6.0,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Have His Carcase",
+  "released" : "1961-08-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Daffodil Sky",
+  "released" : "2000-11-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.3,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1988-09-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.7,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "If I Forget Thee Jerusalem",
+  "released" : "1982-09-06",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.1,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "1999-03-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.0,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "2019-07-11",
+  "genresId" : [ 1 ],
+  "rating" : 6.3,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "2008-04-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.1,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1940-07-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.1,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "For Whom the Bell Tolls",
+  "released" : "1941-01-14",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.1,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1984-12-19",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "1960-07-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.8,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "1930-05-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.6,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Waste Land",
+  "released" : "2005-10-04",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1968-09-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "1930-09-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.4,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Sleep the Brave",
+  "released" : "1923-01-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.2,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1931-09-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.9,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "2021-09-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.8,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1975-03-06",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1992-07-04",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.3,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1991-08-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.1,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Carrion Comfort",
+  "released" : "1920-03-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.5,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Little Foxes",
+  "released" : "2011-05-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.2,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "1957-04-26",
+  "genresId" : [ 1 ],
+  "rating" : 8.6,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1993-01-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Surprised by Joy",
+  "released" : "1996-07-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.8,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Sun Also Rises",
+  "released" : "1960-01-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.0,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Road Less Traveled",
+  "released" : "1968-05-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Cabbages and Kings",
+  "released" : "1914-06-15",
+  "genresId" : [ 1 ],
+  "rating" : 8.2,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1929-02-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.9,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1912-12-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.2,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "A Time to Kill",
+  "released" : "1983-04-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.3,
+  "directorId" : 7,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "1970-04-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1942-05-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.0,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1995-09-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1953-10-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "2009-02-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.3,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1994-12-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "2016-05-29",
+  "genresId" : [ 1 ],
+  "rating" : 8.6,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Clouds of Witness",
+  "released" : "1986-06-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1963-05-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Fear and Trembling",
+  "released" : "1916-11-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.1,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "From Here to Eternity",
+  "released" : "1923-03-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Mermaids Singing",
+  "released" : "2018-01-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.2,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "A Handful of Dust",
+  "released" : "1970-05-18",
+  "genresId" : [ 1 ],
+  "rating" : 6.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Wings of the Dove",
+  "released" : "1927-11-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.3,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Carrion Comfort",
+  "released" : "1965-11-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.7,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1924-12-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.8,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Last Enemy",
+  "released" : "1957-02-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1910-10-09",
+  "genresId" : [ 1 ],
+  "rating" : 3.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Far From the Madding Crowd",
+  "released" : "1914-06-30",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.9,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Last Enemy",
+  "released" : "1920-12-13",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "This Lime Tree Bower",
+  "released" : "1972-11-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "1900-10-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "1929-03-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.4,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "A Time of Gifts",
+  "released" : "1932-01-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Now Sleeps the Crimson Petal",
+  "released" : "1906-07-21",
+  "genresId" : [ 1 ],
+  "rating" : 5.3,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Now Sleeps the Crimson Petal",
+  "released" : "1926-05-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Death Be Not Proud",
+  "released" : "2024-05-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Alone on a Wide, Wide Sea",
+  "released" : "1941-04-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.4,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "1916-09-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.1,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "1997-07-19",
+  "genresId" : [ 1 ],
+  "rating" : 8.9,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1948-06-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.6,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1924-02-04",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.1,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Time of Gifts",
+  "released" : "1974-09-01",
+  "genresId" : [ 1 ],
+  "rating" : 5.8,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Widening Gyre",
+  "released" : "1986-08-22",
+  "genresId" : [ 1 ],
+  "rating" : 5.8,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1959-10-22",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.2,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "1986-11-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.6,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Wings of the Dove",
+  "released" : "1964-02-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.4,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "1988-10-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "2012-05-31",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.5,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Tirra Lirra by the River",
+  "released" : "1947-02-19",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.1,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Lathe of Heaven",
+  "released" : "1989-07-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.1,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Gone with the Wind",
+  "released" : "1918-09-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.4,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "1964-12-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "No Highway",
+  "released" : "1919-02-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.8,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "In a Glass Darkly",
+  "released" : "1926-03-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "No Highway",
+  "released" : "1915-11-23",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.4,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Wildfire at Midnight",
+  "released" : "2012-11-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.2,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Down to a Sunless Sea",
+  "released" : "1941-01-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.6,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "1973-08-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.2,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "2022-01-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.4,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1983-08-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.7,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1985-02-22",
+  "genresId" : [ 1 ],
+  "rating" : 5.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Clouds of Witness",
+  "released" : "1931-08-06",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.2,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1909-07-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.1,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1925-01-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.4,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Vanity Fair",
+  "released" : "1977-06-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.6,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1949-03-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.4,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1912-11-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Look Homeward, Angel",
+  "released" : "2005-02-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "1928-07-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1926-09-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.1,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Eyeless in Gaza",
+  "released" : "1930-08-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.7,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Blood's a Rover",
+  "released" : "1981-11-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "A Handful of Dust",
+  "released" : "1939-05-31",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "1949-04-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.2,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Have His Carcase",
+  "released" : "1927-01-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "To Say Nothing of the Dog",
+  "released" : "1969-10-19",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.4,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Unweaving the Rainbow",
+  "released" : "1942-03-27",
+  "genresId" : [ 1 ],
+  "rating" : 9.8,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1958-04-16",
+  "genresId" : [ 1 ],
+  "rating" : 6.2,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "His Dark Materials",
+  "released" : "1958-03-18",
+  "genresId" : [ 1 ],
+  "rating" : 5.5,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Time To Murder And Create",
+  "released" : "1905-11-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "All Passion Spent",
+  "released" : "2007-08-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1942-10-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.3,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Such, Such Were the Joys",
+  "released" : "1951-04-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1982-04-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.2,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1900-07-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.4,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "1945-10-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.6,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Clouds of Witness",
+  "released" : "1937-05-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.6,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA", "Oscar" ]
+}, {
+  "title" : "A Swiftly Tilting Planet",
+  "released" : "2015-02-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.2,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "If Not Now, When?",
+  "released" : "1919-11-06",
+  "genresId" : [ 1 ],
+  "rating" : 4.3,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "If I Forget Thee Jerusalem",
+  "released" : "1932-08-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "1913-01-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.9,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Precious Bane",
+  "released" : "1972-02-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.8,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "By Grand Central Station I Sat Down and Wept",
+  "released" : "1910-04-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Cabbages and Kings",
+  "released" : "1995-04-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.0,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Bury My Heart at Wounded Knee",
+  "released" : "1999-10-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1966-02-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.0,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "1902-10-05",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1976-03-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1970-04-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "1923-08-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.1,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1946-06-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.5,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1913-10-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "As I Lay Dying",
+  "released" : "1990-08-31",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Dance Dance Dance",
+  "released" : "1974-12-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.5,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "1955-08-19",
+  "genresId" : [ 1 ],
+  "rating" : 7.2,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Pale Kings and Princes",
+  "released" : "1948-08-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Wildfire at Midnight",
+  "released" : "1961-03-14",
+  "genresId" : [ 1 ],
+  "rating" : 2.5,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "2000-01-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Time to Kill",
+  "released" : "1955-01-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "1974-12-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.9,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Mirror Crack'd from Side to Side",
+  "released" : "1990-06-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.4,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "His Dark Materials",
+  "released" : "1928-08-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Stranger in a Strange Land",
+  "released" : "1904-09-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.0,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Daffodil Sky",
+  "released" : "1974-11-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.4,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Moving Finger",
+  "released" : "1916-01-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Frequent Hearses",
+  "released" : "1910-12-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "That Good Night",
+  "released" : "1983-06-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.5,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Nine Coaches Waiting",
+  "released" : "1901-09-19",
+  "genresId" : [ 1 ],
+  "rating" : 9.8,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Time of our Darkness",
+  "released" : "1960-01-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1994-01-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Sun Also Rises",
+  "released" : "1942-05-03",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1965-08-27",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1974-10-02",
+  "genresId" : [ 1 ],
+  "rating" : 7.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Oscar" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1908-04-26",
+  "genresId" : [ 1 ],
+  "rating" : 5.1,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Quo Vadis",
+  "released" : "1923-04-05",
+  "genresId" : [ 1 ],
+  "rating" : 9.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "1988-12-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Moving Toyshop",
+  "released" : "1948-10-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.1,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Other Side of Silence",
+  "released" : "1980-03-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.5,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Wives of Bath",
+  "released" : "1928-07-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.2,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Françoise Sagan",
+  "released" : "1948-07-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.2,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "1999-11-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.0,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "No Country for Old Men",
+  "released" : "1914-01-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.4,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Skull Beneath the Skin",
+  "released" : "1913-01-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.9,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "If I Forget Thee Jerusalem",
+  "released" : "1959-06-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.0,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "If I Forget Thee Jerusalem",
+  "released" : "1940-05-11",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.9,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "1935-10-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1963-06-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Alone on a Wide, Wide Sea",
+  "released" : "1995-10-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.2,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1997-02-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The House of Mirth",
+  "released" : "1949-02-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "In a Glass Darkly",
+  "released" : "1922-04-28",
+  "genresId" : [ 1 ],
+  "rating" : 6.1,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "1948-05-20",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Catskill Eagle",
+  "released" : "2006-09-26",
+  "genresId" : [ 1 ],
+  "rating" : 5.4,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Wives of Bath",
+  "released" : "1931-04-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Man Within",
+  "released" : "1929-10-05",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.9,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1904-07-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.6,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Wind's Twelve Quarters",
+  "released" : "1955-07-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.2,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Blood's a Rover",
+  "released" : "2024-03-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "A Monstrous Regiment of Women",
+  "released" : "1913-01-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.8,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1924-12-29",
+  "genresId" : [ 1 ],
+  "rating" : 9.4,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "1980-06-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.6,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Unweaving the Rainbow",
+  "released" : "1958-03-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "2005-06-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.9,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Wildfire at Midnight",
+  "released" : "2008-04-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Time To Murder And Create",
+  "released" : "1936-09-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.7,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "2019-01-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.6,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Sun Also Rises",
+  "released" : "1975-06-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.5,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "2019-02-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.1,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1909-06-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.4,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "I Sing the Body Electric",
+  "released" : "1951-01-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.6,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1908-10-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "1979-08-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.3,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Antic Hay",
+  "released" : "1957-08-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1929-05-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "2020-03-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1992-09-14",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Glory and the Dream",
+  "released" : "1998-08-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.3,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Time To Murder And Create",
+  "released" : "2012-04-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.9,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Little Hands Clapping",
+  "released" : "1930-06-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.8,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Look Homeward, Angel",
+  "released" : "1912-06-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Wealth of Nations",
+  "released" : "1948-07-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "An Acceptable Time",
+  "released" : "2016-02-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.5,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1937-05-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.3,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Where Angels Fear to Tread",
+  "released" : "1999-08-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.0,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "As I Lay Dying",
+  "released" : "1960-02-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.3,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "2009-10-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.7,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1934-09-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.1,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Wildfire at Midnight",
+  "released" : "1953-08-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.7,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1953-01-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Time of Gifts",
+  "released" : "1903-10-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Antic Hay",
+  "released" : "1923-12-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "2013-10-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.8,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "1947-01-23",
+  "genresId" : [ 1 ],
+  "rating" : 4.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "2001-07-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.2,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Surprised by Joy",
+  "released" : "1908-12-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.3,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Oscar" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "1927-05-04",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.6,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "1908-02-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.8,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Lathe of Heaven",
+  "released" : "1979-08-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.0,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1994-10-14",
+  "genresId" : [ 1 ],
+  "rating" : 8.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Surprised by Joy",
+  "released" : "1945-08-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Waste Land",
+  "released" : "2017-10-26",
+  "genresId" : [ 1 ],
+  "rating" : 4.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Wings of the Dove",
+  "released" : "2023-09-23",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "I Know Why the Caged Bird Sings",
+  "released" : "1978-07-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.3,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Quo Vadis",
+  "released" : "1967-08-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.2,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Mirror Crack'd from Side to Side",
+  "released" : "2024-11-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1947-11-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.0,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "2002-04-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1975-10-06",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.5,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Endless Night",
+  "released" : "1961-08-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.5,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Moving Toyshop",
+  "released" : "1915-02-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "2004-07-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.3,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Sun Also Rises",
+  "released" : "1952-08-31",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.2,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Nine Coaches Waiting",
+  "released" : "1991-07-13",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 10.0,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1907-06-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.1,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Heart Is Deceitful Above All Things",
+  "released" : "1955-02-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.3,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "1958-08-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.1,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Painted Veil",
+  "released" : "1942-12-05",
+  "genresId" : [ 1 ],
+  "rating" : 5.4,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1935-06-22",
+  "genresId" : [ 1 ],
+  "rating" : 9.6,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "This Lime Tree Bower",
+  "released" : "1982-03-05",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.0,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "2000-12-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.6,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Those Barren Leaves, Thrones, Dominations",
+  "released" : "1964-08-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "1956-05-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.8,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "1952-06-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.1,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Look Homeward, Angel",
+  "released" : "2000-06-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Heart Is Deceitful Above All Things",
+  "released" : "1932-04-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.8,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1916-01-06",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.0,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "When the Green Woods Laugh",
+  "released" : "1982-10-28",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.4,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "2010-11-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.8,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "1944-03-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.4,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Such, Such Were the Joys",
+  "released" : "1931-04-12",
+  "genresId" : [ 1 ],
+  "rating" : 7.2,
+  "directorId" : 1,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1917-11-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Moving Toyshop",
+  "released" : "1930-12-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.7,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "1954-06-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.8,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Proper Study",
+  "released" : "1990-04-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Other Side of Silence",
+  "released" : "1912-03-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.0,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1937-03-21",
+  "genresId" : [ 1 ],
+  "rating" : 9.1,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Shall not Perish",
+  "released" : "2017-02-06",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1907-03-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "1995-04-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.3,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Vile Bodies",
+  "released" : "1905-12-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.7,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Little Foxes",
+  "released" : "2000-06-12",
+  "genresId" : [ 1 ],
+  "rating" : 7.6,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "1951-07-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Blood's a Rover",
+  "released" : "2005-09-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Look Homeward, Angel",
+  "released" : "1999-06-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1909-09-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "2004-08-26",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.1,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Clouds of Witness",
+  "released" : "2023-10-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.9,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Many Waters",
+  "released" : "1931-02-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.0,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "1925-04-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.4,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "A Time to Kill",
+  "released" : "1915-08-30",
+  "genresId" : [ 1 ],
+  "rating" : 3.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Eyeless in Gaza",
+  "released" : "1998-12-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Fear and Trembling",
+  "released" : "1992-06-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1966-07-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.4,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "1990-08-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "2016-03-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.7,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "1945-09-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "2020-10-10",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.2,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "1980-02-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.6,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1941-03-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.5,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Look Homeward, Angel",
+  "released" : "1957-11-20",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.1,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1901-03-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.8,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Pale Kings and Princes",
+  "released" : "2015-10-05",
+  "genresId" : [ 1 ],
+  "rating" : 2.9,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1985-10-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1995-10-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "For Whom the Bell Tolls",
+  "released" : "1959-07-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.0,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Golden Apples of the Sun",
+  "released" : "1910-01-13",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Butter In a Lordly Dish",
+  "released" : "1914-03-28",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1991-09-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The House of Mirth",
+  "released" : "1934-08-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.0,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "2007-12-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Cover Her Face",
+  "released" : "1906-06-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 7,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "1903-03-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "A Handful of Dust",
+  "released" : "2003-08-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1901-03-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.6,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Taming a Sea Horse",
+  "released" : "1950-04-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 7,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Dying of the Light",
+  "released" : "1946-03-30",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "In Dubious Battle",
+  "released" : "1925-01-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.6,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1990-05-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.1,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Waste Land",
+  "released" : "1993-09-04",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1920-05-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.3,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "2015-09-04",
+  "genresId" : [ 1 ],
+  "rating" : 5.0,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Man Within",
+  "released" : "1904-09-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1935-09-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.2,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "2007-12-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.6,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1912-05-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.2,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1972-05-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "A Time to Kill",
+  "released" : "1907-09-26",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.6,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Precious Bane",
+  "released" : "2009-06-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 10.0,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Wives of Bath",
+  "released" : "1948-11-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.9,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "2019-03-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.6,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1934-05-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.7,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "1999-01-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.6,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "As I Lay Dying",
+  "released" : "1947-04-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.4,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "1929-03-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.8,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "1943-02-21",
+  "genresId" : [ 1 ],
+  "rating" : 1.5,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1915-07-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.1,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1930-01-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.6,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1973-07-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.3,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "2000-08-05",
+  "genresId" : [ 1 ],
+  "rating" : 7.9,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1960-12-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.2,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Wind's Twelve Quarters",
+  "released" : "2011-03-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Gone with the Wind",
+  "released" : "2006-02-11",
+  "genresId" : [ 1 ],
+  "rating" : 5.7,
+  "directorId" : 1,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "After Many a Summer Dies the Swan",
+  "released" : "1903-03-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Arms and the Man",
+  "released" : "1991-09-27",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.5,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "1969-02-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "By Grand Central Station I Sat Down and Wept",
+  "released" : "1996-01-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.3,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Glory and the Dream",
+  "released" : "2008-02-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.5,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "2010-12-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1982-07-07",
+  "genresId" : [ 1 ],
+  "rating" : 5.1,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Last Enemy",
+  "released" : "1925-11-22",
+  "genresId" : [ 1 ],
+  "rating" : 3.9,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "No Longer at Ease",
+  "released" : "1932-09-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "1978-05-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "No Highway",
+  "released" : "1982-11-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "2004-07-06",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Vanity Fair",
+  "released" : "1941-03-14",
+  "genresId" : [ 1 ],
+  "rating" : 4.1,
+  "directorId" : 7,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1969-11-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.7,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1987-07-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 10.0,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Mirror Crack'd from Side to Side",
+  "released" : "1942-12-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.9,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Noli Me Tangere",
+  "released" : "1934-11-09",
+  "genresId" : [ 1 ],
+  "rating" : 3.0,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Absalom, Absalom!",
+  "released" : "1981-06-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Absalom, Absalom!",
+  "released" : "1975-04-21",
+  "genresId" : [ 1 ],
+  "rating" : 1.3,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "An Instant In The Wind",
+  "released" : "2020-01-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "It's a Battlefield",
+  "released" : "1979-02-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.9,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Everything is Illuminated",
+  "released" : "2000-03-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "1977-05-23",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.6,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "2001-05-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.7,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Blood's a Rover",
+  "released" : "2016-07-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.6,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1977-12-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "1967-09-06",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.1,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "2007-09-16",
+  "genresId" : [ 1 ],
+  "rating" : 9.2,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Cricket on the Hearth",
+  "released" : "1928-12-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.4,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Painted Veil",
+  "released" : "2022-03-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.8,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Consider the Lilies",
+  "released" : "2000-11-19",
+  "genresId" : [ 1 ],
+  "rating" : 5.1,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1992-01-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Mirror Crack'd from Side to Side",
+  "released" : "2005-04-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.3,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Those Barren Leaves, Thrones, Dominations",
+  "released" : "1957-04-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Absalom, Absalom!",
+  "released" : "1949-07-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "I Sing the Body Electric",
+  "released" : "1997-08-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Brandy of the Damned",
+  "released" : "1980-02-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.7,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Blue Remembered Earth",
+  "released" : "1989-07-05",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "2019-07-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.5,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Little Hands Clapping",
+  "released" : "1919-05-26",
+  "genresId" : [ 1 ],
+  "rating" : 7.8,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The Golden Bowl",
+  "released" : "2001-07-24",
+  "genresId" : [ 1 ],
+  "rating" : 6.9,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1909-06-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Fear and Trembling",
+  "released" : "1926-03-10",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "1910-10-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Doors of Perception",
+  "released" : "1914-08-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.2,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Doors of Perception",
+  "released" : "2022-06-01",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "After Many a Summer Dies the Swan",
+  "released" : "1914-08-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.3,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Other Side of Silence",
+  "released" : "2002-09-19",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1973-01-31",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.0,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1944-05-31",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.3,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1979-11-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Painted Veil",
+  "released" : "2014-12-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.6,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Last Enemy",
+  "released" : "1978-08-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.3,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "1950-05-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.5,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "1937-04-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.2,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1918-02-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.5,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1911-01-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.7,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "1970-03-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.7,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Many Waters",
+  "released" : "2003-08-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.8,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1978-07-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.1,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1969-08-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.0,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Torment of Others",
+  "released" : "1916-04-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.5,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Yellow Meads of Asphodel",
+  "released" : "1982-12-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.2,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "All the King's Men",
+  "released" : "1915-06-03",
+  "genresId" : [ 1 ],
+  "rating" : 3.7,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "If Not Now, When?",
+  "released" : "1938-03-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.3,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1908-08-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Soldier's Art",
+  "released" : "1906-08-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.4,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Way Through the Woods",
+  "released" : "1990-07-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.1,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "From Here to Eternity",
+  "released" : "1955-06-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.1,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1931-09-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "1933-08-14",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Wildfire at Midnight",
+  "released" : "1998-10-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Monkey's Raincoat",
+  "released" : "1916-12-18",
+  "genresId" : [ 1 ],
+  "rating" : 3.6,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "2013-07-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1955-12-22",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.4,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "1941-10-14",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.4,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Rosemary Sutcliff",
+  "released" : "1947-04-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.8,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Time To Murder And Create",
+  "released" : "1925-10-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.0,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1963-04-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1968-07-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.1,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "It's a Battlefield",
+  "released" : "1956-02-16",
+  "genresId" : [ 1 ],
+  "rating" : 7.6,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Oh! To be in England",
+  "released" : "1942-09-03",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.0,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Infinite Jest",
+  "released" : "1931-10-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.5,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "2009-05-04",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.7,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "A Passage to India",
+  "released" : "1968-04-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.5,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Fear and Trembling",
+  "released" : "1932-08-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.0,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "1932-12-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Jacob Have I Loved",
+  "released" : "1962-03-29",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.0,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "Dulce et Decorum Est",
+  "released" : "1959-08-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.7,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "It's a Battlefield",
+  "released" : "1906-08-25",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.5,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Vanity Fair",
+  "released" : "2013-03-20",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.9,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1999-07-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.9,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "I Know Why the Caged Bird Sings",
+  "released" : "1983-01-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Shall not Perish",
+  "released" : "1996-12-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.6,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Surprised by Joy",
+  "released" : "1906-02-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Widening Gyre",
+  "released" : "1967-05-25",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.5,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Golden Bowl",
+  "released" : "1967-01-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "1909-12-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.5,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "2001-07-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Glass of Blessings",
+  "released" : "1908-10-30",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.8,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "2002-10-18",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.1,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "2018-01-03",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1924-01-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.8,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Quo Vadis",
+  "released" : "1944-04-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.4,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "2005-02-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.5,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "East of Eden",
+  "released" : "2004-05-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.0,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Man Within",
+  "released" : "2020-03-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.2,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Terrible Swift Sword",
+  "released" : "2000-11-28",
+  "genresId" : [ 1 ],
+  "rating" : 2.9,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "A Handful of Dust",
+  "released" : "2016-12-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.7,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Dance Dance Dance",
+  "released" : "1980-07-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.2,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Of Mice and Men",
+  "released" : "2003-07-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Doors of Perception",
+  "released" : "1953-03-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Ego Dominus Tuus",
+  "released" : "1902-10-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "No Longer at Ease",
+  "released" : "1924-02-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.3,
+  "directorId" : 7,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Nine Coaches Waiting",
+  "released" : "1964-05-26",
+  "genresId" : [ 1 ],
+  "rating" : 6.3,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Doors of Perception",
+  "released" : "1947-05-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.4,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1973-02-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "East of Eden",
+  "released" : "1989-12-02",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.7,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Ah, Wilderness!",
+  "released" : "1989-09-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.6,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "1906-11-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.7,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Alone on a Wide, Wide Sea",
+  "released" : "1916-02-27",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.1,
+  "directorId" : 7,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1974-05-16",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1919-09-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "A Many-Splendoured Thing",
+  "released" : "1980-09-08",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Painted Veil",
+  "released" : "1957-07-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Dulce et Decorum Est",
+  "released" : "2006-04-07",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.9,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "2012-10-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.2,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Golden Apples of the Sun",
+  "released" : "1952-06-28",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1976-10-08",
+  "genresId" : [ 1 ],
+  "rating" : 1.5,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Proper Study",
+  "released" : "1937-06-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.0,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "1927-12-05",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.6,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "1908-05-11",
+  "genresId" : [ 1 ],
+  "rating" : 1.5,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "From Here to Eternity",
+  "released" : "2020-10-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.7,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Some Buried Caesar",
+  "released" : "1988-04-29",
+  "genresId" : [ 1 ],
+  "rating" : 9.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "2023-01-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Wealth of Nations",
+  "released" : "1951-08-24",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.2,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1967-02-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Things Fall Apart",
+  "released" : "1963-07-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.5,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Nine Coaches Waiting",
+  "released" : "1995-04-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.7,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Many Waters",
+  "released" : "1988-02-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.3,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Cricket on the Hearth",
+  "released" : "1949-01-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.7,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "Cabbages and Kings",
+  "released" : "1987-09-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "A Swiftly Tilting Planet",
+  "released" : "2015-11-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.4,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "A Many-Splendoured Thing",
+  "released" : "2001-02-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Jesting Pilate",
+  "released" : "2013-07-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "1939-05-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "1936-05-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.3,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Shall not Perish",
+  "released" : "1958-09-22",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.0,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Carrion Comfort",
+  "released" : "1957-08-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.9,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Noli Me Tangere",
+  "released" : "1960-06-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.2,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "1977-01-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.0,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "To a God Unknown",
+  "released" : "1916-09-02",
+  "genresId" : [ 1 ],
+  "rating" : 8.8,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "An Acceptable Time",
+  "released" : "1911-12-14",
+  "genresId" : [ 1 ],
+  "rating" : 4.8,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The House of Mirth",
+  "released" : "1963-11-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Fair Stood the Wind for France",
+  "released" : "1960-11-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.0,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Endless Night",
+  "released" : "2008-09-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.7,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Way of All Flesh",
+  "released" : "1975-12-18",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Now Sleeps the Crimson Petal",
+  "released" : "1927-07-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "To Your Scattered Bodies Go",
+  "released" : "2017-05-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.1,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Far-Distant Oxus",
+  "released" : "1905-05-23",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA", "Oscar" ]
+}, {
+  "title" : "A Scanner Darkly",
+  "released" : "1923-05-07",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.6,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Quo Vadis",
+  "released" : "1920-10-05",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.9,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Mr Standfast",
+  "released" : "1915-09-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.0,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Down to a Sunless Sea",
+  "released" : "1965-04-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.7,
+  "directorId" : 7,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Tirra Lirra by the River",
+  "released" : "2017-10-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1994-09-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "That Good Night",
+  "released" : "1998-01-13",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.3,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "2002-04-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 5,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "1971-12-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.0,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Pale Kings and Princes",
+  "released" : "1972-11-04",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.2,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "A Passage to India",
+  "released" : "1917-04-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.4,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Rosemary Sutcliff",
+  "released" : "2022-10-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.7,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "For Whom the Bell Tolls",
+  "released" : "2002-07-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.3,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "A Farewell to Arms",
+  "released" : "1977-10-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Wealth of Nations",
+  "released" : "1907-12-28",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.9,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1900-05-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.5,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Unweaving the Rainbow",
+  "released" : "1947-07-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.6,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1978-01-21",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.5,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Shall not Perish",
+  "released" : "1974-12-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.9,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Those Barren Leaves, Thrones, Dominations",
+  "released" : "2018-10-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Mother Night",
+  "released" : "2012-11-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.4,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1952-12-08",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "In Dubious Battle",
+  "released" : "1936-04-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.7,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "1986-02-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.4,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "1917-03-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.2,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Wind's Twelve Quarters",
+  "released" : "1946-11-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.1,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or", "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "For Whom the Bell Tolls",
+  "released" : "2015-10-16",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.4,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Last Temptation",
+  "released" : "2012-01-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.9,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "To Say Nothing of the Dog",
+  "released" : "2022-12-13",
+  "genresId" : [ 1 ],
+  "rating" : 5.1,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1935-01-11",
+  "genresId" : [ 1 ],
+  "rating" : 7.8,
+  "directorId" : 1,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Cricket on the Hearth",
+  "released" : "1904-06-20",
+  "genresId" : [ 1 ],
+  "rating" : 8.0,
+  "directorId" : 3,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Wealth of Nations",
+  "released" : "1942-08-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.7,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "2024-11-17",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.6,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Lathe of Heaven",
+  "released" : "1966-12-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.7,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1915-07-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.3,
+  "directorId" : 7,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "A Glass of Blessings",
+  "released" : "1935-06-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "That Hideous Strength",
+  "released" : "1920-03-25",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.4,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Millstone",
+  "released" : "1910-08-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 10.0,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Death Be Not Proud",
+  "released" : "1950-01-05",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1946-05-12",
+  "genresId" : [ 1 ],
+  "rating" : 5.8,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "A Time of Gifts",
+  "released" : "1975-04-23",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.9,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "No Longer at Ease",
+  "released" : "1904-03-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.8,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1987-11-15",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.2,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "By Grand Central Station I Sat Down and Wept",
+  "released" : "1983-10-06",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.4,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1971-08-17",
+  "genresId" : [ 1 ],
+  "rating" : 4.1,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Skull Beneath the Skin",
+  "released" : "1973-12-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.8,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Have His Carcase",
+  "released" : "2012-10-27",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.4,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Cabbages and Kings",
+  "released" : "1916-03-30",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.5,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Let Us Now Praise Famous Men",
+  "released" : "2023-11-25",
+  "genresId" : [ 1 ],
+  "rating" : 5.7,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "As I Lay Dying",
+  "released" : "1942-05-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.5,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "2011-03-03",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.4,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Heart Is Deceitful Above All Things",
+  "released" : "2021-03-10",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.1,
+  "directorId" : 6,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Specimen Days",
+  "released" : "2012-11-14",
+  "genresId" : [ 1 ],
+  "rating" : 8.5,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "1947-03-18",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.3,
+  "directorId" : 6,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Needle's Eye",
+  "released" : "1938-01-30",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 4,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "2007-01-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Precious Bane",
+  "released" : "1993-02-24",
+  "genresId" : [ 1 ],
+  "rating" : 7.6,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "A Darkling Plain",
+  "released" : "1906-06-13",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.3,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Precious Bane",
+  "released" : "1993-10-30",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "A Catskill Eagle",
+  "released" : "1903-09-04",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.8,
+  "directorId" : 5,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Wind's Twelve Quarters",
+  "released" : "1974-08-16",
+  "genresId" : [ 1, 2 ],
+  "rating" : 6.8,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Of Human Bondage",
+  "released" : "1945-12-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "Behold the Man",
+  "released" : "1979-05-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.6,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1977-02-10",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.2,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1950-04-09",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.9,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Wealth of Nations",
+  "released" : "1929-08-11",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Summer Bird-Cage",
+  "released" : "1942-06-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.1,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "1982-05-24",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "1923-09-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.3,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1932-12-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 1.8,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1903-03-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "A Scanner Darkly",
+  "released" : "1917-02-05",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.7,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "In a Dry Season",
+  "released" : "1986-04-26",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.2,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "2015-10-21",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.8,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1954-09-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.9,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "2004-11-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.5,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Recalled to Life",
+  "released" : "1917-02-17",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 9.5,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Mermaids Singing",
+  "released" : "1911-07-19",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.2,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Clouds of Witness",
+  "released" : "1914-09-16",
+  "genresId" : [ 1 ],
+  "rating" : 5.1,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Sleep the Brave",
+  "released" : "1960-12-27",
+  "genresId" : [ 1 ],
+  "rating" : 5.9,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Nectar in a Sieve",
+  "released" : "1985-05-01",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.1,
+  "directorId" : 1,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "The Golden Bowl",
+  "released" : "2013-10-26",
+  "genresId" : [ 1 ],
+  "rating" : 7.5,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "A Passage to India",
+  "released" : "1915-09-26",
+  "genresId" : [ 1 ],
+  "rating" : 1.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "A Catskill Eagle",
+  "released" : "2011-05-29",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.6,
+  "directorId" : 4,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Specimen Days",
+  "released" : "2002-12-12",
+  "genresId" : [ 1 ],
+  "rating" : 7.5,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "I Will Fear No Evil",
+  "released" : "1992-12-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.3,
+  "directorId" : 4,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "O Pioneers!",
+  "released" : "1979-11-05",
+  "genresId" : [ 1 ],
+  "rating" : 9.4,
+  "directorId" : 6,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "In Dubious Battle",
+  "released" : "1991-02-12",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Fame Is the Spur",
+  "released" : "1938-12-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 5.6,
+  "directorId" : 7,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "No Highway",
+  "released" : "2000-02-15",
+  "genresId" : [ 1 ],
+  "rating" : 5.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Moving Toyshop",
+  "released" : "1942-01-24",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 6,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "From Here to Eternity",
+  "released" : "1997-10-10",
+  "genresId" : [ 1 ],
+  "rating" : 6.5,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "No Highway",
+  "released" : "1914-02-20",
+  "genresId" : [ 1 ],
+  "rating" : 7.4,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Beneath the Bleeding",
+  "released" : "1990-10-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.9,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "To Say Nothing of the Dog",
+  "released" : "1927-02-20",
+  "genresId" : [ 1 ],
+  "rating" : 6.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "1928-07-23",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "An Instant In The Wind",
+  "released" : "1992-07-24",
+  "genresId" : [ 1 ],
+  "rating" : 7.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Blue Remembered Earth",
+  "released" : "1913-02-25",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.1,
+  "directorId" : 3,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "1984-09-16",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.9,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Golden Globe Award" ]
+}, {
+  "title" : "Alone on a Wide, Wide Sea",
+  "released" : "1959-12-15",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 8.0,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "2008-05-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.4,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Number the Stars",
+  "released" : "1999-11-06",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.2,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1973-04-15",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.3,
+  "directorId" : 1,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Waiting for the Barbarians",
+  "released" : "1947-03-02",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.7,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Dying of the Light",
+  "released" : "1934-10-29",
+  "genresId" : [ 1 ],
+  "rating" : 8.0,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1957-03-19",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.7,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA" ]
+}, {
+  "title" : "To Sail Beyond the Sunset",
+  "released" : "1907-07-14",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.5,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Tiger! Tiger!",
+  "released" : "2015-01-25",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.8,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Now Sleeps the Crimson Petal",
+  "released" : "1911-02-12",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.8,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Glory and the Dream",
+  "released" : "1944-08-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.1,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Beyond the Mexique Bay",
+  "released" : "1948-10-11",
+  "genresId" : [ 1, 2 ],
+  "rating" : 4.2,
+  "directorId" : 7,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1931-07-11",
+  "genresId" : [ 1, 2 ],
+  "rating" : 3.7,
+  "directorId" : 6,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Blue Remembered Earth",
+  "released" : "1936-06-29",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.1,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Françoise Sagan",
+  "released" : "2024-08-31",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.5,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "Golden Globe Award" ]
+}, {
+  "title" : "Dulce et Decorum Est",
+  "released" : "2005-10-11",
+  "genresId" : [ 1 ],
+  "rating" : 3.5,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "The Little Foxes",
+  "released" : "1954-05-14",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 4.7,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "released" : "1942-03-30",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.2,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA", "Oscar" ]
+}, {
+  "title" : "In Death Ground",
+  "released" : "1942-02-25",
+  "genresId" : [ 1 ],
+  "rating" : 7.0,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Stars' Tennis Balls",
+  "released" : "1903-06-17",
+  "genresId" : [ 1, 2 ],
+  "rating" : 7.2,
+  "directorId" : 2,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "Ring of Bright Water",
+  "released" : "1939-08-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.1,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Tender Is the Night",
+  "released" : "1951-07-08",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.5,
+  "directorId" : 1,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Postern of Fate",
+  "released" : "1916-07-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.6,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "Golden Globe Award" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1975-02-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.3,
+  "directorId" : 3,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Everything is Illuminated",
+  "released" : "1921-08-28",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 2.0,
+  "directorId" : 4,
+  "awards" : [ "Golden Globe Award", "Oscar", "BAFTA" ]
+}, {
+  "title" : "The Grapes of Wrath",
+  "released" : "2017-09-20",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 6.3,
+  "directorId" : 2,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The World, the Flesh and the Devil",
+  "released" : "1941-10-30",
+  "genresId" : [ 1 ],
+  "rating" : 8.0,
+  "directorId" : 3,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "Some Buried Caesar",
+  "released" : "1980-11-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 3.4,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "Lilies of the Field",
+  "released" : "1915-05-21",
+  "genresId" : [ 1, 2 ],
+  "rating" : 2.4,
+  "directorId" : 4,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "Unweaving the Rainbow",
+  "released" : "1998-03-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 8.5,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "For a Breath I Tarry",
+  "released" : "1984-08-03",
+  "genresId" : [ 1 ],
+  "rating" : 7.5,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Glory and the Dream",
+  "released" : "1946-10-09",
+  "genresId" : [ 1 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "1909-12-22",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.3,
+  "directorId" : 2,
+  "awards" : [ "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "An Acceptable Time",
+  "released" : "2000-07-10",
+  "genresId" : [ 1, 2 ],
+  "rating" : 5.4,
+  "directorId" : 5,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "The Wives of Bath",
+  "released" : "2014-04-14",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 7.8,
+  "directorId" : 6,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "Look to Windward",
+  "released" : "2013-05-09",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.3,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or" ]
+}, {
+  "title" : "The Violent Bear It Away",
+  "released" : "1930-02-08",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 2.4,
+  "directorId" : 1,
+  "awards" : [ "BAFTA", "Oscar", "Palme d’Or" ]
+}, {
+  "title" : "Paths of Glory",
+  "released" : "1993-05-20",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.1,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "The Torment of Others",
+  "released" : "1949-01-26",
+  "genresId" : [ 1 ],
+  "rating" : 2.1,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "BAFTA", "Palme d’Or" ]
+}, {
+  "title" : "The Wind's Twelve Quarters",
+  "released" : "1938-04-09",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 4.5,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1990-02-01",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 5.4,
+  "directorId" : 2,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Edna O'Brien",
+  "released" : "1906-01-12",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.7,
+  "directorId" : 4,
+  "awards" : [ "Palme d’Or", "BAFTA" ]
+}, {
+  "title" : "O Jerusalem!",
+  "released" : "1930-08-02",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 3.0,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "Consider Phlebas",
+  "released" : "1904-04-26",
+  "genresId" : [ 1, 2 ],
+  "rating" : 9.1,
+  "directorId" : 5,
+  "awards" : [ "Oscar" ]
+}, {
+  "title" : "An Acceptable Time",
+  "released" : "1979-05-15",
+  "genresId" : [ 1 ],
+  "rating" : 6.1,
+  "directorId" : 5,
+  "awards" : [ "Palme d’Or", "Oscar" ]
+}, {
+  "title" : "The Parliament of Man",
+  "released" : "1964-07-04",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 1.5,
+  "directorId" : 5,
+  "awards" : [ "Golden Globe Award", "Palme d’Or" ]
+}, {
+  "title" : "The Green Bay Tree",
+  "released" : "1975-07-03",
+  "genresId" : [ 1, 2 ],
+  "rating" : 1.1,
+  "directorId" : 3,
+  "awards" : [ "BAFTA", "Oscar" ]
+}, {
+  "title" : "Everything is Illuminated",
+  "released" : "1903-12-27",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 9.5,
+  "directorId" : 1,
+  "awards" : [ "BAFTA" ]
+}, {
+  "title" : "A Time of Gifts",
+  "released" : "1911-02-11",
+  "genresId" : [ 1, 2, 3 ],
+  "rating" : 8.2,
+  "directorId" : 2,
+  "awards" : [ "Golden Globe Award", "Oscar" ]
+}, {
+  "title" : "The Line of Beauty",
+  "released" : "1917-05-02",
+  "genresId" : [ 1 ],
+  "rating" : 1.7,
+  "directorId" : 7,
+  "awards" : [ "Oscar", "BAFTA" ]
+}, {
+  "title" : "Alone on a Wide, Wide Sea",
+  "released" : "2011-10-07",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 6.5,
+  "directorId" : 3,
+  "awards" : [ "Golden Globe Award" ]
+}, {
+  "title" : "Blithe Spirit",
+  "released" : "1986-12-22",
+  "genresId" : [ 1, 2, 3, 4 ],
+  "rating" : 7.1,
+  "directorId" : 2,
+  "awards" : [ "BAFTA" ]
+} ]

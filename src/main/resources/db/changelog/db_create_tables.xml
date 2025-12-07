@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="001-create-tables" author="vadym_rebrov">
+
+        <createTable tableName="country">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="name" type="VARCHAR(255)">
+                <constraints nullable="false" unique="true"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="director">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="full_name" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="birthday" type="DATE"/>
+            <column name="country_id" type="BIGINT">
+                <constraints nullable="false"
+                             foreignKeyName="fk_director_country"
+                             referencedTableName="country"
+                             referencedColumnNames="id"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="genre">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="name" type="VARCHAR(255)">
+                <constraints nullable="false" unique="true"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="movie">
+            <column name="id" type="BIGINT" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="title" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="released" type="DATE"/>
+            <column name="rating" type="DOUBLE PRECISION"/>
+            <column name="director_id" type="BIGINT">
+                <constraints nullable="false"
+                             foreignKeyName="fk_movie_director"
+                             referencedTableName="director"
+                             referencedColumnNames="id"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="movie_genres">
+            <column name="movie_id" type="BIGINT">
+                <constraints nullable="false"
+                             foreignKeyName="fk_movie_genres_movie"
+                             referencedTableName="movie"
+                             referencedColumnNames="id"/>
+            </column>
+            <column name="genre_id" type="BIGINT">
+                <constraints nullable="false"
+                             foreignKeyName="fk_movie_genres_genre"
+                             referencedTableName="genre"
+                             referencedColumnNames="id"/>
+            </column>
+        </createTable>
+
+        <createTable tableName="movie_awards">
+            <column name="movie_id" type="BIGINT">
+                <constraints nullable="false"
+                             foreignKeyName="fk_movie_awards_movie"
+                             referencedTableName="movie"
+                             referencedColumnNames="id"/>
+            </column>
+            <column name="award_name" type="VARCHAR(255)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <addPrimaryKey
+                tableName="movie_awards"
+                columnNames="movie_id, award_name"
+                constraintName="pk_movie_awards"/>
+
+
+    </changeSet>
+
+    <changeSet id="001-indexes" author="vadym_rebrov">
+
+        <!-- UNIQUE indexes -->
+        <createIndex indexName="idx_country_name_unique"
+                     tableName="country"
+                     unique="true">
+            <column name="name"/>
+        </createIndex>
+
+        <createIndex indexName="idx_genre_name_unique"
+                     tableName="genre"
+                     unique="true">
+            <column name="name"/>
+        </createIndex>
+        <addUniqueConstraint
+                tableName="movie"
+                columnNames="title, released"
+                constraintName="uk_movie_title_released"/>
+
+        <addUniqueConstraint
+                tableName="director"
+                columnNames="full_name, birthday, country_id"
+                constraintName="uk_director_birthday_country_id"/>
+
+        <!-- FULLTEXT INDEXES -->
+        <sql>
+            CREATE INDEX idx_movie_title_fts
+                ON movie USING gin (to_tsvector('english', title));
+        </sql>
+
+        <sql>
+            CREATE INDEX idx_director_full_name_fts
+                ON director USING gin (to_tsvector('english', full_name));
+        </sql>
+
+
+
+    </changeSet>
+
+    <changeSet id="002-add-constraints" author="vadym_rebrov">
+
+        <sql><![CDATA[
+            ALTER TABLE movie
+                ADD CONSTRAINT chk_movie_rating_range
+                    CHECK (rating >= 0 AND rating <= 10);
+            ]]></sql>
+
+        <sql><![CDATA[
+            ALTER TABLE movie
+                ADD CONSTRAINT chk_movie_title_not_empty
+                    CHECK (LENGTH(TRIM(title)) > 0);
+            ]]></sql>
+
+        <sql><![CDATA[
+            ALTER TABLE director
+                ADD CONSTRAINT chk_director_name_not_empty
+                    CHECK (LENGTH(TRIM(full_name)) > 0);
+            ]]></sql>
+
+        <sql><![CDATA[
+            ALTER TABLE country
+                ADD CONSTRAINT chk_country_name_not_empty
+                    CHECK (LENGTH(TRIM(name)) > 0);
+            ]]></sql>
+
+        <sql><![CDATA[
+            ALTER TABLE genre
+                ADD CONSTRAINT chk_genre_name_not_empty
+                    CHECK (LENGTH(TRIM(name)) > 0);
+            ]]></sql>
+
+        <sql><![CDATA[
+            ALTER TABLE movie_awards
+                ADD CONSTRAINT chk_award_name_not_empty
+                    CHECK (LENGTH(TRIM(award_name)) > 0);
+            ]]></sql>
+
+        <rollback>
+            <sql>ALTER TABLE movie DROP CONSTRAINT IF EXISTS chk_movie_rating_range;</sql>
+            <sql>ALTER TABLE movie DROP CONSTRAINT IF EXISTS chk_movie_title_not_empty;</sql>
+            <sql>ALTER TABLE director DROP CONSTRAINT IF EXISTS chk_director_name_not_empty;</sql>
+            <sql>ALTER TABLE country DROP CONSTRAINT IF EXISTS chk_country_name_not_empty;</sql>
+            <sql>ALTER TABLE genre DROP CONSTRAINT IF EXISTS chk_genre_name_not_empty;</sql>
+            <sql>ALTER TABLE movie_awards DROP CONSTRAINT IF EXISTS chk_award_name_not_empty;</sql>
+        </rollback>
+
+    </changeSet>
+
+
+
+
+</databaseChangeLog>
