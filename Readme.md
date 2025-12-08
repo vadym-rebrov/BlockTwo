@@ -6,10 +6,10 @@
 
 ### Access to PostgreSQL:
 ### - Host: localhost
-### - Port: 5433
+### - Port: 5432
 ### - Username: postgres
 ### - Password: 1111
-### - Database: movies_db
+### - Database: movies_db and movies_test_db
 
 <p style="font-size: 18px; text-align: justify;">
 The application provides RESTful APIs for "Movie" and "Director" entities, including full CRUD operations. <br/>
