@@ -4,7 +4,9 @@ import dev.profitsoft.internship.rebrov.blocktwo.data.Director;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Genre;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Movie;
 import dev.profitsoft.internship.rebrov.blocktwo.dto.*;
+import dev.profitsoft.internship.rebrov.blocktwo.parser.ExcelReportWriter;
 import dev.profitsoft.internship.rebrov.blocktwo.parser.JsonParser;
+import dev.profitsoft.internship.rebrov.blocktwo.parser.impl.MovieExcelReportWriter;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.DirectorRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.GenreRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.MovieRepository;
@@ -48,8 +50,18 @@ public class MovieServiceImpl implements MovieService{
      * @return A list of movie details DTOs matching the criteria.
      */
     @Override
-    public List<MovieDetailsDto> findMoviesByCriteria(MovieQueryDto parameters) {
-        return movieRepository.findMoviesByCriteria(parameters).stream().map(MovieDetailsDto::new).toList();
+    public PageDto<MovieDetailsDto> findMoviesByCriteria(MovieQueryDto parameters) {
+        List<Movie> movies = movieRepository.findPageMoviesByCriteria(parameters);
+        List<MovieDetailsDto> dtos = movies.stream().map(MovieDetailsDto::new).toList();
+        Long totalElements = movieRepository.getMoviesCount(parameters);
+        int pageSize = parameters.getSize();
+        int totalPages = (int) Math.ceil((double) totalElements / pageSize);
+
+        if (totalElements == 0){
+            totalPages = 0;
+        }
+
+        return new PageDto<>(dtos, totalPages, totalElements);
     }
 
     /**
@@ -133,42 +145,9 @@ public class MovieServiceImpl implements MovieService{
      */
     @Override
     public FileReportResponseDto getExcelReportByCriteria(MovieQueryDto parameters){
-        int page = 0;
-        int size = 500;
-        parameters.setSize(size);
-        parameters.setPage(page);
-
-        try (SXSSFWorkbook workbook = new SXSSFWorkbook(500)) {
-            Sheet sheet = workbook.createSheet("Movies");
-            ((SXSSFSheet) sheet).trackAllColumnsForAutoSizing();
-            MovieExcelUtils.createHeader(sheet, workbook);
-            final int[] rowIndex = {1};
-            Consumer<MovieInfoDto> excelWriter = dto -> {
-                synchronized (sheet) {
-                    Row row = sheet.createRow(rowIndex[0]++);
-                    MovieExcelUtils.fillMovieRow(dto, row);
-                }
-            };
-
-            while (true) {
-                parameters.setPage(page++);
-                List<Movie> movies = movieRepository.findMoviesByCriteria(parameters);
-                if (movies.isEmpty()){
-                    break;
-                }
-                movies.stream()
-                        .map(MovieInfoDto::new)
-                        .forEach(excelWriter);
-            }
-
-            ByteArrayOutputStream out = new ByteArrayOutputStream();
-            workbook.write(out);
-            workbook.dispose();
-            return new FileReportResponseDto("movies_report.xlsx", new ByteArrayInputStream(out.toByteArray()));
-
-        } catch (Exception e) {
-            throw new RuntimeException("Error generating Excel", e);
-        }
+        MovieExcelReportWriter writer = new MovieExcelReportWriter();
+        ByteArrayInputStream inputStream = writer.write(movieRepository.streamMoviesByCriteria(parameters));
+        return new FileReportResponseDto("movies_report.xlsx", inputStream);
 
     }
 

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 public interface MovieService{
-    List<MovieDetailsDto> findMoviesByCriteria(MovieQueryDto parameters);
+    PageDto<MovieDetailsDto> findMoviesByCriteria(MovieQueryDto parameters);
     MovieInfoDto getById(Long id);
     void deleteById(Long id);
     void add(MovieSaveDto dto) throws NoSuchElementException, EntityExistsException;

@@ -82,8 +82,8 @@ public class MovieController {
      * @return List of movie DTOs (abbreviated information for lists).
      */
     @PostMapping("/_list")
-    public List<MovieDetailsDto> getMovieList(@Valid @RequestBody MovieQueryDto queryDto){
-        return movieService.findMoviesByCriteria(queryDto);
+    public ResponseEntity<PageDto<MovieDetailsDto>> getMovieList(@Valid @RequestBody MovieQueryDto queryDto){
+        return ResponseEntity.ok(movieService.findMoviesByCriteria(queryDto));
     }
 
     /**

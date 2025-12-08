@@ -152,12 +152,18 @@ class MovieControllerTest {
         MovieDetailsDto movieDetails = new MovieDetailsDto();
         movieDetails.setTitle("Found Movie");
         List<MovieDetailsDto> resultList = List.of(movieDetails);
-        when(movieService.findMoviesByCriteria(any(MovieQueryDto.class))).thenReturn(resultList);
+
+        PageDto<MovieDetailsDto> pageDto = new PageDto<>(resultList, 5, 50L);
+        when(movieService.findMoviesByCriteria(any(MovieQueryDto.class))).thenReturn(pageDto);
         mockMvc.perform(post("/api/movie/_list")
                         .contentType(MediaType.APPLICATION_JSON)
                         .content(objectMapper.writeValueAsString(queryDto)))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$[0].title").value("Found Movie"));
+                .andExpect(jsonPath("$.list[0].title").value("Found Movie"))
+                .andExpect(jsonPath("$.totalPages").value(5))
+                .andExpect(jsonPath("$.totalElements").value(50));
+
+        verify(movieService).findMoviesByCriteria(any(MovieQueryDto.class));
     }
 
     @Test
