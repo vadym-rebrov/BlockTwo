@@ -12,10 +12,10 @@ import java.time.LocalDate;
 @AllArgsConstructor
 @NoArgsConstructor
 public class DirectorInfoDto{
-    Long id;
-    String fullName;
-    CountryInfoDto country;
-    LocalDate birthday;
+    private Long id;
+    private String fullName;
+    private CountryInfoDto country;
+    private LocalDate birthday;
 
     public DirectorInfoDto(Director director){
         this.id = director.getId();

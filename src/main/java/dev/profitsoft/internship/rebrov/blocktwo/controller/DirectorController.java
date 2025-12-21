@@ -1,6 +1,7 @@
 package dev.profitsoft.internship.rebrov.blocktwo.controller;
 
 import dev.profitsoft.internship.rebrov.blocktwo.dto.DirectorInfoDto;
+import dev.profitsoft.internship.rebrov.blocktwo.dto.DirectorQueryDto;
 import dev.profitsoft.internship.rebrov.blocktwo.dto.DirectorSaveDto;
 import dev.profitsoft.internship.rebrov.blocktwo.service.DirectorService;
 import jakarta.validation.Valid;
@@ -16,6 +17,12 @@ public class DirectorController {
 
     @Autowired
     DirectorService directorService;
+
+
+    @PostMapping("/_list")
+    public ResponseEntity<List<DirectorInfoDto>> getByQuery(@Valid @RequestBody DirectorQueryDto dto){
+        return ResponseEntity.ok(directorService.getByNameContains(dto));
+    }
 
     /**
      * Retrieves a list of all directors present in the database.
@@ -37,6 +44,9 @@ public class DirectorController {
     public ResponseEntity<DirectorInfoDto> getById(@PathVariable Long id){
         return ResponseEntity.ok(directorService.getById(id));
     }
+
+
+
 
     /**
      * Deletes a director by ID.

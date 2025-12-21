@@ -3,6 +3,7 @@ package dev.profitsoft.internship.rebrov.blocktwo.service.impl;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Country;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Director;
 import dev.profitsoft.internship.rebrov.blocktwo.dto.DirectorInfoDto;
+import dev.profitsoft.internship.rebrov.blocktwo.dto.DirectorQueryDto;
 import dev.profitsoft.internship.rebrov.blocktwo.dto.DirectorSaveDto;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.CountryRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.DirectorRepository;
@@ -86,7 +87,10 @@ public class DirectorServiceImpl implements DirectorService {
         directorRepository.delete(id);
     }
 
-
+    @Override
+    public List<DirectorInfoDto> getByNameContains(DirectorQueryDto dto) {
+        return directorRepository.findByFullName(dto.getName()).stream().map(DirectorInfoDto::new).collect(Collectors.toList());
+    }
 
 
 }
