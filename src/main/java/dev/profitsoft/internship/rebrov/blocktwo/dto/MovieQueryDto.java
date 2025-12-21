@@ -3,10 +3,12 @@ import dev.profitsoft.internship.rebrov.blocktwo.validation.ValidIntervals;
 import jakarta.validation.constraints.*;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Getter
 @Setter
 @ValidIntervals
+@ToString
 public class MovieQueryDto{
 
     @Size(min = 2, max = 50, message = "Country must be between 2 and 50 characters")
