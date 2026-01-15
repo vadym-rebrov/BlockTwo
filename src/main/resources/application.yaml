@@ -18,7 +18,11 @@ spring:
           lob:
             non_contextual_creation: true
         dialect: dev.profitsoft.internship.rebrov.blocktwo.config.CustomPostgreSQLDialect
-
+  kafka:
+    bootstrap-servers: localhost:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
   liquibase:
     enabled: true
     change-log: classpath:db/changelog/db_changelog.xml

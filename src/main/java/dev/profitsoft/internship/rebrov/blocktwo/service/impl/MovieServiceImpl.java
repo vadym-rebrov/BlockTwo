@@ -3,6 +3,7 @@ package dev.profitsoft.internship.rebrov.blocktwo.service.impl;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Director;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Genre;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Movie;
+import dev.profitsoft.internship.rebrov.blocktwo.data.MovieCreatedEvent;
 import dev.profitsoft.internship.rebrov.blocktwo.dto.*;
 import dev.profitsoft.internship.rebrov.blocktwo.parser.ExcelReportWriter;
 import dev.profitsoft.internship.rebrov.blocktwo.parser.JsonParser;
@@ -10,6 +11,7 @@ import dev.profitsoft.internship.rebrov.blocktwo.parser.impl.MovieExcelReportWri
 import dev.profitsoft.internship.rebrov.blocktwo.repository.DirectorRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.GenreRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.MovieRepository;
+import dev.profitsoft.internship.rebrov.blocktwo.service.MessageProducer;
 import dev.profitsoft.internship.rebrov.blocktwo.service.MovieService;
 import dev.profitsoft.internship.rebrov.blocktwo.util.MovieExcelUtils;
 import jakarta.persistence.EntityNotFoundException;
@@ -40,6 +42,8 @@ public class MovieServiceImpl implements MovieService{
     private DirectorRepository directorRepository;
     @Autowired
     private GenreRepository genreRepository;
+    @Autowired
+    private MessageProducer kafkaProducerService;
     @Autowired
     private Validator validator;
 
@@ -96,6 +100,11 @@ public class MovieServiceImpl implements MovieService{
         Movie movie = new Movie();
         mapDtoToMovie(movie, dto);
         movieRepository.save(movie);
+        kafkaProducerService.sendMovieCreatedEvent(MovieCreatedEvent.builder()
+                .id(movie.getId())
+                .title(movie.getTitle())
+                .year(movie.getReleased())
+                .build());
     }
 
     /**
