@@ -1,7 +1,7 @@
 spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5433/movies_db
+    url: jdbc:postgresql://localhost:5432/movies_db
     username: postgres
     password: 1111
     hikari:
@@ -26,3 +26,5 @@ spring:
   liquibase:
     enabled: true
     change-log: classpath:db/changelog/db_changelog.xml
+notifications:
+  admin-mail: ${ADMIN_MAIL:xxx@gmail.com}

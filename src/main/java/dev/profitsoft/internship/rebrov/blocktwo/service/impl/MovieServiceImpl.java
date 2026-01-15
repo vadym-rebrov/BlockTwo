@@ -3,9 +3,8 @@ package dev.profitsoft.internship.rebrov.blocktwo.service.impl;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Director;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Genre;
 import dev.profitsoft.internship.rebrov.blocktwo.data.Movie;
-import dev.profitsoft.internship.rebrov.blocktwo.data.MovieCreatedEvent;
+import dev.profitsoft.internship.rebrov.blocktwo.dto.MessageEventDto;
 import dev.profitsoft.internship.rebrov.blocktwo.dto.*;
-import dev.profitsoft.internship.rebrov.blocktwo.parser.ExcelReportWriter;
 import dev.profitsoft.internship.rebrov.blocktwo.parser.JsonParser;
 import dev.profitsoft.internship.rebrov.blocktwo.parser.impl.MovieExcelReportWriter;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.DirectorRepository;
@@ -13,25 +12,19 @@ import dev.profitsoft.internship.rebrov.blocktwo.repository.GenreRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.repository.MovieRepository;
 import dev.profitsoft.internship.rebrov.blocktwo.service.MessageProducer;
 import dev.profitsoft.internship.rebrov.blocktwo.service.MovieService;
-import dev.profitsoft.internship.rebrov.blocktwo.util.MovieExcelUtils;
 import jakarta.persistence.EntityNotFoundException;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.ConstraintViolationException;
 import jakarta.validation.Validator;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.xssf.streaming.SXSSFSheet;
-import org.apache.poi.xssf.streaming.SXSSFWorkbook;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.*;
-import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
 @Service
@@ -46,6 +39,9 @@ public class MovieServiceImpl implements MovieService{
     private MessageProducer kafkaProducerService;
     @Autowired
     private Validator validator;
+
+    @Value("${notifications.admin-mail}")
+    private String adminEmail;
 
     /**
      * Retrieves a list of movies based on the provided filtering and pagination criteria.
@@ -100,11 +96,7 @@ public class MovieServiceImpl implements MovieService{
         Movie movie = new Movie();
         mapDtoToMovie(movie, dto);
         movieRepository.save(movie);
-        kafkaProducerService.sendMovieCreatedEvent(MovieCreatedEvent.builder()
-                .id(movie.getId())
-                .title(movie.getTitle())
-                .year(movie.getReleased())
-                .build());
+        kafkaProducerService.sendMovieCreatedEvent(new MessageEventDto(movie, List.of(adminEmail)));
     }
 
     /**
