@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1111
+      POSTGRES_DB: movies_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - shared-kafka-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  movie-service:
+    build: .
+    container_name: movie-service
+    ports:
+      - "8080:8080"
+    restart: on-failure
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      SPRING_KAFKA_BOOTSTRAP_SERVERS: kafka:9094
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/movies_db
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: 1111
+      SPRING_LIQUIBASE_ENABLED: "true"
+      ADMIN_MAIL: ${ADMIN_MAIL:-admin@example.com}
+    networks:
+      - shared-kafka-net
+
+volumes:
+  pg_data:
+
+networks:
+  shared-kafka-net:
+    external: true
