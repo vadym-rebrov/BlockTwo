@@ -1,4 +1,10 @@
 spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          # Ссылка на Google. Сервис при старте скачает отсюда ключи шифрования.
+          issuer-uri: https://accounts.google.com
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:postgresql://localhost:5432/movies_db
