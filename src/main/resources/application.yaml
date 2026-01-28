@@ -8,7 +8,7 @@ spring:
           issuer-uri: https://accounts.google.com
   cloud:
     consul:
-      host: 127.0.0.1
+      host: ${CONSUL_HOST:localhost}
       port: 8500
       discovery:
         prefer-ip-address: true
