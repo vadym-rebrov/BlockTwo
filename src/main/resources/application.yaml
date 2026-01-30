@@ -6,6 +6,7 @@ spring:
       resourceserver:
         jwt:
           issuer-uri: https://accounts.google.com
+          jwk-set-uri: https://www.googleapis.com/oauth2/v3/certs
   cloud:
     consul:
       host: ${CONSUL_HOST:localhost}
