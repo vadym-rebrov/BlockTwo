@@ -12,7 +12,6 @@ spring:
       host: ${CONSUL_HOST:localhost}
       port: 8500
       discovery:
-        prefer-ip-address: true
         health-check-path: /actuator/health
         health-check-interval: 10s
   datasource:
