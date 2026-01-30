@@ -37,7 +37,7 @@ services:
       SPRING_DATASOURCE_USERNAME: postgres
       SPRING_DATASOURCE_PASSWORD: 1111
       SPRING_LIQUIBASE_ENABLED: "true"
-      ADMIN_MAIL: ${ADMIN_MAIL:admin@example.com}
+      ADMIN_MAIL: ${ADMIN_MAIL}
     networks:
       - shared-kafka-net
 
