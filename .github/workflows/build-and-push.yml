@@ -54,7 +54,7 @@ jobs:
           event-type: deploy
           client-payload: |
             {
-              "service": "api-gateway",
+              "service": "movie-service",
               "tag": "${{ github.sha }}",
               "message": "${{ github.event.head_commit.message }}"
             }
